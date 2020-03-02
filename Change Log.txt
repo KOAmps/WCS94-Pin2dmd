@@ -1,5 +1,27 @@
-20200227 WCS94 KO 13    -Added a Goal! mask keyframe, fixed 30% of goal triggering issues
-			-Added bonus, ultra bonus keyframe triggers and scenes.  Static frames worked, transitions not so much
-			-Coloured miss golie scene and added keyframe
-			-Fixed replay keyframe by moving forward a frame
-			-Made new scene and keyframe for striker chalkboard.  Seemed to only trigger on the one it was created from (stamina)
+﻿20200227 WCS94 KO 13    
+-Added a Goal! 5 test keyframe, fixed 30% of brown at start goal triggering issues but colours were a little off.
+-Added bonus, ultra bonus keyframe triggers and scenes.  Static frames worked, transitions not so much
+-Coloured miss goalie scene and added keyframe
+-Fixed replay keyframe by moving it forward a frame, triggers perfectly now
+-Made new scene and keyframe for striker chalkboard.  Seemed to only  trigger on the one it was created from (stamina)
+
+
+20200228 WCS94 KO 13
+-Added nation defeated scene and d-mask keyframe from the ‘austria’ scene which triggers every once and a while but nowhere near perfect
+-Added TV award 1 through 3 intro replacement scenes with matching keyframes
+-Changed the TV award start with the armchair and TV to a replacement scene which works great.
+-Removed Goal! 5 test and added a ton of keyframe triggers for palette switches to a custom red/white/blue palette which work really well but only about half the time, still some late starts.
+
+
+20200301 WCS94 14
+-Added a recording from my own machine 20200301 KO
+-Added up to Goal! 11 palette keyframes which help a little with the goal palette switch triggering but still needs work
+-Added colourized bicycle kick scene and keyframe, triggers twice when the tv screen is empty so tried adding an empty screen scene at the start but it still shows a bit of striker before the 10000000 comes up, still needs work
+-Added colourized header scene and keyframe
+-Added colourized buy in free play with no credit dot score scene and keyframe
+-Added colourized score final scene and keyframe
+-Added colourized player 1 all features lit scene and keyframe
+-Added colourized Bonus Ultra alone scene and keyframe
+-Added colourized Tackle end scene and keyframe
+-Added a bunch of victory lap and germany defeated scenes
+-Added a spinner sparkle scene
