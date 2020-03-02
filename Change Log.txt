@@ -1,0 +1,5 @@
+20200227 WCS94 KO 13    -Added a Goal! mask keyframe, fixed 30% of goal triggering issues
+			-Added bonus, ultra bonus keyframe triggers and scenes.  Static frames worked, transitions not so much
+			-Coloured miss golie scene and added keyframe
+			-Fixed replay keyframe by moving forward a frame
+			-Made new scene and keyframe for striker chalkboard.  Seemed to only trigger on the one it was created from (stamina)
